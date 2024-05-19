@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/coherent/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/coherent/Downloads/DevOps_interview_test_(1)_(1)/super-service/src/SuperService.csproj",
+      "projectName": "SuperService",
+      "projectPath": "/Users/coherent/Downloads/DevOps_interview_test_(1)_(1)/super-service/src/SuperService.csproj",
+      "packagesPath": "/Users/coherent/.nuget/packages/",
+      "outputPath": "/Users/coherent/Downloads/DevOps_interview_test_(1)_(1)/super-service/src/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/coherent/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://coherent-223490286239.d.codeartifact.ap-southeast-1.amazonaws.com/nuget/dotnet/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.419/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
